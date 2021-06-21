@@ -1,0 +1,92 @@
+/* sidebar widget Color */
+#secondary .widget > .widget-title{
+    font-size: 12px;
+    text-transform: uppercase;
+    padding: 15px;
+    color: #fff;
+    background: #374c9f;
+    text-align: center;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+/* Sidebar Social color */
+.widget_rtc_social_links ul li a {
+    display: inline-block;
+    vertical-align: middle;
+    width: 40px;
+    text-align: center;
+    height: 40px;
+    line-height: 40px;
+    background: #374c9f;
+    color: #fff;
+    border-radius: 100%;
+}
+/* menu dropdown */
+.social-icons li a {
+    display: inline-block;
+    vertical-align: middle;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    line-height: 35px;
+    background: #374c9f;
+    color: #fff;
+    border-radius: 100%;
+    font-size: 16px;
+    font-weight: 400;
+}
+/* Search button hover */
+.header-r .header-search > button.search-toggle-btn:hover {
+    background: #374c9f;
+}
+/* Menu toggle hover */
+.header-r button.toggle-btn:hover {
+    background: #374c9f;
+}
+/* Footer */
+.bottom-footer {
+   background: #374c9f;
+}
+.top-footer {
+   background: #374c9f;
+}
+/* Footer Top Text Color */
+.top-footer .entry-meta a {
+    color: #a8a8a8;
+}
+.top-footer .entry-meta a {
+     color: #898888;
+}
+.top-footer .widget_raratheme_recent_post ul li .entry-header .entry-title a:hover {
+    color: #a8a8a8; 
+}
+/* About Section Social Icon */
+.about-section .widget_rtc_social_links ul li a:hover {
+    background: #374c9f;
+}
+/* Portfolio Section */
+.filter-button-group button.is-checked {
+    background: #374c9f;
+}
+/* Footer Text Color */
+.bottom-footer .copyright {
+    color: #a8a8a8;
+}
+.bottom-footer a {
+     color: #a8a8a8;
+}
+.bottom-footer a:hover {
+     color: #898888;
+}
+.bottom-footer .foot-social a {
+    color: #a8a8a8;
+}
+.bottom-footer .foot-social a:hover {
+  color: #898888;
+}
+
+/*find*/
+&copy; Copyright 2020 <a href="http://localhost/madan/">Madan Oli </a>. Elegant Portfolio | Developed By <a href="https://rarathemes.com/" rel="nofollow" target="_blank">Rara Theme</a>. Powered by <a href="https://wordpress.org/" target="_blank">WordPress</a>. 
+
+/*Replace*/
+&copy; Copyright 2020 <a href="https://sathisoft.com/">Madan Oli </a>. Developed By <a href="https://sathisoft.com/" rel="nofollow" target="_blank">Sathisoft Pvt. Ltd.</a> 
